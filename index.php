@@ -13,34 +13,35 @@
         <section class="form signup">
             <header>Realtime Chat</header>
             <form action="#">
-                <div class="error-txt">This is error message!</div>
+                <div class="error-txt">This is an error message!</div>
                 <div class="name-details">
-                    <div class="field">
+                    <div class="field input">
                         <label for="firstName">First Name</label>
                         <input type="text" placeholder="First Name">
                     </div>
-                    <div class="field">
+                    <div class="field input">
                         <label for="lastName">Last Name</label>
                         <input type="text" placeholder="Last Name">
                     </div>
-                    <div class="field">
+                    </div>
+                    <div class="field input">
                         <label for="email">Email</label>
                         <input type="text" placeholder="Enter your email">
                     </div>
-                    <div class="field">
+                    <div class="field input">
                         <label for="password">Password</label>
                         <input type="password" placeholder="Enter your password">
                     </div>
-                    <div class="field">
+                    <div class="field image">
                         <label for="image">Select Image</label>
                         <input type="file">
                     </div>
-                    <div class="field">
+                    <div class="field button">
                         <input type="submit" value="Continue to Chat">
                     </div>
-                </div>
+
             </form>
-            <div class="link">Already signed up?<a href="#">Login now</a></div>
+            <div class="link">Already signed up? <a href="#">Login now</a></div>
         </section>
     </div>
 </body>
