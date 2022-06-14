@@ -45,5 +45,7 @@
             <div class="link">Already signed up? g<a href="#">Login now</a></div>
         </section>
     </div>
+
+    <script src="./javascript/pass-show-hide.js"></script>
 </body>
 </html>
